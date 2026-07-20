@@ -21,4 +21,4 @@ if inp=="MR.ashish":
 if inp=="MR.romi":
     b.details() 
 if inp=="MR.tandon":
-    c.details() 
+    c.details()
