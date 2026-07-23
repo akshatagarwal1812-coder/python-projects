@@ -9,5 +9,5 @@ elif(hour>12 and hour<4):
 elif(hour>4 and hour<8):
     print("good evening")
 else:
-    print("good night")
+    print("good bye")
  
